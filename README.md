@@ -1,4 +1,4 @@
-![](https://i.imgur.com/z2Er1RP.png)
+![](https://i.imgur.com/VLO1VUr.png)
 =============
 WebM for bakas. Basically, a wrapper around ffmpeg made for converting videos to WebM without having to use the command line.
 
